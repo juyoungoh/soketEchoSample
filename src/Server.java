@@ -8,7 +8,11 @@ import java.net.Socket;
 import java.util.ArrayList;
 import java.util.List;
 
-
+/**
+ * 서버 클래스
+ * @author 201806081
+ *
+ */
 class SocketChild {
 	private Socket socket;
 	private BufferedReader bufferedReader;

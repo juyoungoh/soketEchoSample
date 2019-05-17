@@ -8,6 +8,11 @@ import java.net.Socket;
 import java.net.UnknownHostException;
 import java.util.logging.Logger;
 
+/**
+ * 클라이언트 클래스
+ * @author 201806081
+ *
+ */
 public class Client {
 	
 	public static final Logger log = Logger.getGlobal();
